@@ -7,18 +7,18 @@
     "test": "make test"
   },
   "dependencies": {
-    "jugglingdb": "= 0.2.x",
-    "pg": "~3"
+    "jugglingdb": "1.0.2",
+    "pg": "4.4.3"
   },
   "devDependencies": {
     "jugglingdb": "https://github.com/1602/jugglingdb/archive/master.tar.gz",
-    "semicov": "*",
-    "should": "~3.0.1",
-    "mocha": "~1.8.2"
+    "semicov": "0.1.1-2",
+    "should": "8.0.1",
+    "mocha": "2.3.4"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jugglingdb/postgres.git"
+    "url": "https://github.com/atl-hvu/postgres-adapter.git"
   },
   "author": "Anatoliy Chakkaev <mail@anatoliy.in>",
   "license": "MIT",
